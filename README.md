@@ -13,7 +13,7 @@ The following lists are recommended to install:
 | 7  | AdGuard DNS           |[Link](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt)|![Image](assets/adguard.generic.dns.svg "AdGuard DNS")|
 | 8  | AdGuard Tracking      |[Link](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt)|![Image](assets/adguard.generic.tracking.svg "AdGuard Tracking")|
 | 9  | Hagezi Thread Hunting |[Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/tif.txt)|![Image](assets/hagezi.generic.threathunting.svg "Hagezi Thread Hunting")|
-| 10 | Hagezi Pro.mini       |[Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.mini.txt)|![Image](assets/hagezi.generic.generic.svg "Hagezi Pro.mini")|
+| 10 | Hagezi Pro.mini       |[Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.mini.txt)|![Image](assets/hagezi.generic.base.svg "Hagezi Pro.mini")|
 | 11 | AdGuard RU            |[Link](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_1_Russian/filter.txt)|![Image](assets/adguard.local.ru.svg "AdGuard RU")|
 | 12 | AdGuard DE            |[Link](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_6_German/filter.txt)|![Image](assets/adguard.local.de.svg "AdGuard DE")|
 | 13 | AdGuard ES            |[Link](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_9_Spanish/filter.txt)|![Image](assets/adguard.local.es.svg "AdGuard ES")|
