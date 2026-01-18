@@ -11,7 +11,7 @@ The following lists are recommended to install:
 | 5  | AdGuard Mobile        |[Link](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt)|![Image](assets/adguard.generic.mobile.svg "AdGuard Mobile")|
 | 6  | AdGuard Annoyances    |[Link](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt)|![Image](assets/adguard.generic.annoyances.svg "AdGuard Annoyances")|
 | 7  | AdGuard DNS           |[Link](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt)|![Image](assets/adguard.generic.dns.svg "AdGuard DNS")|
-| 8  | AdGuard Tracking      |[Link](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt)|![Image](assets/adguard.generic.track.svg "AdGuard Tracking")|
+| 8  | AdGuard Tracking      |[Link](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt)|![Image](assets/adguard.generic.tracking.svg "AdGuard Tracking")|
 | 9  | Hagezi Thread Hunting |[Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/tif.txt)|![Image](assets/hagezi.generic.threathunting.svg "Hagezi Thread Hunting")|
 | 10 | Hagezi Pro.mini       |[Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.mini.txt)|![Image](assets/hagezi.generic.generic.svg "Hagezi Pro.mini")|
 | 11 | AdGuard RU            |[Link](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_1_Russian/filter.txt)|![Image](assets/adguard.local.ru.svg "AdGuard RU")|
